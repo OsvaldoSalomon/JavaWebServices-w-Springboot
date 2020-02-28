@@ -1,4 +1,4 @@
-package com.osvaldo.rest.webservices.restfulwebservices1;
+package com.osvaldo.rest.webservices.restfulwebservices1.helloworld;
 
 public class HelloWorldBean {
 
@@ -6,6 +6,10 @@ public class HelloWorldBean {
 
     public HelloWorldBean(String message) {
         this.message = message;
+    }
+
+    public String getMessage() {
+        return message;
     }
 
     public void setMessage(String message) {
