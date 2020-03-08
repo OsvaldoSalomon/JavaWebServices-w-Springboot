@@ -1,4 +1,4 @@
-package com.osvaldo.learning.jpa.jpain10steps;
+package com.osvaldo.learning.jpa;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
